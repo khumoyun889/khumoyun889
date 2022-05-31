@@ -1,4 +1,4 @@
-### Hi, I'm Humoyun Ochilov <img src="https://media3.giphy.com/media/Lpche1V8FsCcOmva0Z/giphy.gif?cid=ecf05e476qkyn8p1mok573uafvsl11x8qbadsjwyp5uz61hi&rid=giphy.gif&ct=ts"> 
+### Hi, I'm Humoyun Ochilov <img src="https://media3.giphy.com/media/Lpche1V8FsCcOmva0Z/giphy.gif?cid=ecf05e476qkyn8p1mok573uafvsl11x8qbadsjwyp5uz61hi&rid=giphy.gif&ct=ts" width="100px" highest="100px"> 
 
 <!--
 **khumoyun889/khumoyun889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
